@@ -2,7 +2,7 @@
 // Homey
 const Homey = require("homey");
 // Tuydriver ivm logging en ophalen van devices. 
-const Tuydriver = require('tuydriver');
+const Tuydriver = require('tuydriver-legacy');
 
 // Overige modules ivm tuyapi. 
 const {TuyaContext} = require('@tuya/tuya-connector-nodejs');

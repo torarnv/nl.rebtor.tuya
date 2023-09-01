@@ -18,6 +18,7 @@
     "p-timeout": "^3.2.0",
     "promise.any": "^2.0.2",
     "tuyapi": "^7.5.1",
-    "tuydriver": "file:lib/tuydriver"
+    "tuydriver": "file:lib/tuydriver",
+    "tuydriver-legacy": "https://gitpkg.now.sh/rebtor/nl.rebtor.tuya/lib/tuydriver?57f890a84"
   }
 }
